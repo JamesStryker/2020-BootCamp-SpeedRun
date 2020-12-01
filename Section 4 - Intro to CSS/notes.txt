@@ -1,0 +1,7 @@
+In this section you learn the basics of CSS
+
+how to debug CSS - 
+    1. locate source of problem 
+    2. inspect element and look at properties associated with it 
+
+Deal with distraction by setting breaks ahead of time 
