@@ -1,0 +1,14 @@
+In this section you create a personal website. I am making notes for future changes as I plan to come back and revamp this section with further knowledge given in the course 
+
+Display a Goals list 
+
+Get used to going through w3 schools when first learning 
+
+unicode can be used in html 
+
+Most common self closing tags - 
+    1. br
+    2. img
+    3. input
+    4. link
+

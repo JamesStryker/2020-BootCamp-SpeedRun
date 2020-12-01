@@ -1,0 +1,17 @@
+In this section we add style changes to the personal website from section 2
+
+adding a favicon is default so why not personalize it. .ico for the favicon
+
+pesticide.io is a way to see all boxes on a page
+https://chrome.google.com/webstore/detail/pesticide-for-chrome-with/neonnmencpneifkhlmhmfhfiklgjmloi
+
+common block elements:
+    1. p
+    2. headers
+    3. divs
+    4. lists
+    5. forms
+
+display none vs. visibility hidden
+
+absolute is relative to relative elements

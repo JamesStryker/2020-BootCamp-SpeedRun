@@ -1,0 +1,8 @@
+*{
+    background-color: grey;
+}
+.headerImg{
+    border-radius: 50%;
+    height:200px;
+    width:auto;
+}

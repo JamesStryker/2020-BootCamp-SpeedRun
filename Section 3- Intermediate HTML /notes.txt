@@ -1,0 +1,8 @@
+In this section you add to the personal website. 
+
+learning an old style of using tables and deprecated styling within html. I am not going to do this as to not build bad habbits
+
+input types for forms: https://www.w3schools.com/html/html_form_input_types.asp
+names in input are used to identify a title of what is getting passed back 
+
+created a github site by changing setting to make github pages from source none, to master 
